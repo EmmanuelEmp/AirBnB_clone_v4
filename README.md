@@ -27,7 +27,7 @@ This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
 
-## File Descriptions.
+## File Descriptions
 [console.py](console.py) - the console contains the entry point of the command interpreter. 
 List of commands this console current supports:
 * `EOF` - exits console 
@@ -156,6 +156,9 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+
+Yosef Samuel - [Github](https://github.com/Yosef-S-A)
+Abebayehu S - [Github](https://github.com/absaGH)
 
 Second part of Airbnb: Joann Vuong
 ## License
